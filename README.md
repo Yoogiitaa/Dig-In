@@ -1,3 +1,9 @@
+# Dig-In
+
+Dig-In is a food delivery app. it allows users to search and order their food items. Main feature it is providing is sign in and sign up options for users to keep their information save.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
